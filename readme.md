@@ -1,2 +1,2 @@
 # this is my local repo
-# test_feature
+# test_feature : image
